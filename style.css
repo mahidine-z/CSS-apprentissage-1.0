@@ -1,0 +1,46 @@
+h1 {
+    background-color:gray;
+    color: black;
+    font-size:89px ;
+}
+
+p{
+    text-align: center;
+    color:black
+}
+
+fontSize{
+font-size:80px;
+}
+
+.bgPink{
+background-color: grey;
+}
+
+.bouton {
+    border-radius: 10px;
+    background-color:grey;
+    font-size: 30px;
+    color:white;
+    text-decoration:none;
+    padding: 10px 90px;
+border-color:grey;
+
+border: 4px solid black;
+
+}
+
+.bouton{
+    border: 10px; /* je créer un arrondi de 10px dans les angles */
+    background-color: grey; /* je mets un fond orange*/
+    font-size: 30px; /*taille de police*/
+    color: black; /*couleur du texte*/
+    text-decoration: none; /* retirer la ligne, retirer la decoration du txt */
+    padding: 10px 90px; /* marge intérieur du bloc */
+    border: 4px solid white; /* gestion de la bordure; épaisseur,type de lign
+
+
+}
+
+
+
